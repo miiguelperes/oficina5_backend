@@ -30,3 +30,9 @@ Abrir o Terminal
 	`Database: teste_oficina5`
 
 	Importar o banco anexado ao projeto!
+
+## Documentação de APIS
+
+https://documenter.getpostman.com/view/4428705/SWE56yQz?version=latest
+
+Em anexo segue o JSON de requisições para ser utilizado com o POSTMAN.
