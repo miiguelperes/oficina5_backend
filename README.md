@@ -1,7 +1,7 @@
 # OFICINA5 CORE SERVICE 1.0
 
 ### Este projeto referencia o servidor de aplicações RESTFULL em Node.js. 
-### Arquitetura de segurança contruida para trabalhar com JSON Web Token e JSON Web Signature, baseados na criptografia [RFC 7519](https://tools.ietf.org/html/rfc7519).
+### Arquitetura de segurança construida para trabalhar com JSON Web Token e JSON Web Signature, baseados na criptografia [RFC 7519](https://tools.ietf.org/html/rfc7519).
 
 ## Configurando o projeto
 
