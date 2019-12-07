@@ -10,7 +10,7 @@
             "name": "Launch Program",
             "program": "${workspaceFolder}/index.js",
             "env": {
-                "MYSQL_HOST_DEV": "agronomic.realtec.com.br",
+                "MYSQL_HOST_DEV": "",
                 "MYSQL_HOST_PROD": "localhost",
                 "NODE_ENV": "development"
             },
